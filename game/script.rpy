@@ -3,8 +3,10 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
-
+define Cindy = Character("Cindy")
+define Veronica = Character("Veronica")
+define AIO = Character("AI-0")
+define Mother = Character("Mom")
 
 # The game starts here.
 
@@ -22,11 +24,21 @@ label start:
 
     show eileen happy
 
+    "Being realistic, this is the last time I’ll be home."
+
+    "Hell, it’s probably going to be a while before I even contact my parents again."
+
+    "Sure everyone talks about going home for the holidays, and talks about how they should call their parents, but its always just talk."
+
+    "Jobs keep you busy, exams keep you locked in the dorm rooms during your breaks, and well, life gets in the way."
+
+    #scene house
+    #TODO: Add screenshake
+    Mother "MY BAAAAYYYBBBEEEE"
+
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
 
     # This ends the game.
 
