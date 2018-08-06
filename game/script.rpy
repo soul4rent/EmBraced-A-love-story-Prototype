@@ -36,8 +36,14 @@ label start:
     #TODO: Add screenshake
     Mother "MY BAAAAYYYBBBEEEE"
 
+    #scene blank
     # These display lines of dialogue.
 
+    "My mother has a severe case of empty nest syndrome right now, but I still love her"
+
+    "Dad’s worked pretty heavily at the dental office for as long as I can remember, so I worry that my Mom’s going to be feeling a bit more lonely at home."
+
+    "Maybe I should convince Dad to get her a dog."
 
 
     # This ends the game.
